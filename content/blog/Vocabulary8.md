@@ -1,0 +1,15 @@
+---
+title: Vocabulary Workshop part 8
+draft: false
+---
+|               | context        | structure                                                                                              | sound                                   | dictionary                                                                                      |
+|---------------|----------------|--------------------------------------------------------------------------------------------------------|-----------------------------------------|-------------------------------------------------------------------------------------------------|
+| braggart      | boasting       | Middle French braguer "to flaunt, brag," perhaps originally "to show off clothes, especially breeches" | sounds related to brag                  | a person who boasts about their achievements or possessions.                                    |
+| derive        | source         | from Latin derivare "to lead or draw off                                                               | derivative                              | obtain something from (a specified source).                                                     |
+| extensive     | lots of things | Latin extendere "to stretch out, spread"                                                               | sounds related to extend                | covering or affecting a large area.                                                             |
+| imply         | suggest        | from Latin implicare "involve, enfold, entangle"                                                       | sounds like the word "ply"              | indicate the truth or existence of (something) by suggestion rather than explicit reference     |
+| miscellaneous | anything       | from Latin miscellaneus "mixed, miscellaneous"                                                         | sounds related to mixed                 | (of items or people gathered or considered together) of various types or from different sources |
+| secluded      | no one around  | from Latin secludere "shut off, confine," from se- "apart"                                             | sounds like secret                      | not seen or visited by many people; sheltered and private                                       |
+| superficial   | seriousness    | from Late Latin superficialis "of or pertaining to the surface                                         | sounds like the word face               | existing or occurring at or on the surface                                                      |
+| tangible      | useful         | from Latin tangere "to touch"                                                                          | sounds like it may be related to tangle | perceptible by touch or clear and definite; real                                                |
+| unique        | the only one   | from Latin unicus "only, single, sole, alone of its kind"                                              | sounds like one with "uni"              | being the only one of its kind; unlike anything else                                            |
